@@ -4126,3 +4126,7 @@ UINT32 calc_electronic_tag_crc(EepromTag *pElectronic_tag)
     crc32 = cal_crc32((UINT8 *)pElectronic_tag,electronic_tag_size);
     return crc32;
 }
+
+/*
+git checkout test
+/*
