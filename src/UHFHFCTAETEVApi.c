@@ -4129,5 +4129,4 @@ UINT32 calc_electronic_tag_crc(EepromTag *pElectronic_tag)
 
 /*
 git checkout test
-git checkout test two
 /*
